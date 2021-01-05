@@ -13,13 +13,3 @@ Need to Take:
 	- Operating System
 
 
-
-Check:
-	Pre Calculus
-	Calculus I	
-	Principles of Statistics and Probability
-	Algorithms and Data Structures
-	Calculus II	
-	Object Oriented Programming
-	Operating System
-
